@@ -1,0 +1,15 @@
+/* HEADER */
+.title {
+  text-align: center;
+}
+
+.menu-button {
+  border-radius: 5px;
+  margin: auto;
+}
+/* FOOTER */
+.footer-top {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 5px;
+}
